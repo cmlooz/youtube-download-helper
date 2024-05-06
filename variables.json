@@ -1,0 +1,21 @@
+{
+    "api_key": "AIzaSyDxw7gvw2XZenfxwF224cxYdDsRtV4HM-k",
+    "api_key_2": "AIzaSyBIzSsfSw39-xacB9hDH5u9wnoBPgIDKs4",
+    "api_key_3": "AIzaSyCscI3yZCjf-BgchqfJ0pisCUuYc_Fcbk4",
+    "max_results": 5,
+    "num_threads": 16,
+    "video_format": "mkv",
+    "audio_format": "mp3",
+    "yt_dlp": "./yt-dlp.exe",
+    "channels": [
+        "https://www.youtube.com/c/ProgrammingKnowledge",
+        "https://www.youtube.com/@DrossRotzank",
+        "https://www.youtube.com/@XatakaTV",
+        "https://www.youtube.com/@luckylouie522",
+        "https://www.youtube.com/@NoticiasUnoColombia"
+    ],
+    "last_execution": "20240505_202742"
+}
+
+
+
